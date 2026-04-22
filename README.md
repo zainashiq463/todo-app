@@ -6,7 +6,7 @@ A simple and clean Todo App built with **React** and **Vite**.
 
 ## 🚀 Live Demo
 
-> _(https://todo-app-six-azure-44.vercel.app/)_
+> _https://todo-app-six-azure-44.vercel.app/_
 
 ---
 
